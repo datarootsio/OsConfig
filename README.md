@@ -1,3 +1,7 @@
+![dataroots.png](https://dataroots.io/assets/logo/logo-rainbow.png)
+[![maintained by dataroots](https://img.shields.io/badge/maintained%20by-dataroots-%2300b189)](https://dataroots.io)
+
+
 # OS Configuration Scripts for Data Science
 
 This repository contains a set of bash scripts to help with the initial setup of a data science environment in different operating systems.
@@ -71,3 +75,7 @@ To execute the script, open a terminal and navigate to the directory where the s
 ```bash
 bash ./MacConfig.sh
 ```
+
+
+### License
+MIT license. Please see [LICENSE](LICENSE) for details.
